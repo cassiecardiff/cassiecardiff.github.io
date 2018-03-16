@@ -204,30 +204,21 @@ header .intro-text {
 	margin-left: 10px;
 	text-align: center;
 }
-#classes img {
-	border-radius: 50%;
-	width: 160px;
-	height: 160px;
-	display: inline-block;
-}
 #classes p {
 	margin-top: 40px;
 	margin-bottom: 30px;
 	line-height: 22px;
 }
-.googleCalendar{
-  position: relative;
-  height: 0;
-  width: 50%;
-  padding-bottom: 50%;
+.responsiveCal {
+ 
+position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+ 
 }
-
-.googleCalendar iframe{
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+ 
+.responsiveCal iframe {
+ 
+position: absolute; top:0; left: 0; width: 100%; height: 100%;
+ 
 }
 
 /* Portfolio Section */
@@ -397,6 +388,7 @@ h1 {
 /* Contact Section */
 #contact {
 	padding: 120px 0 60px 0;
+	background: #fff;
 }
 #contact h3 {
 	padding-top: 20px;
