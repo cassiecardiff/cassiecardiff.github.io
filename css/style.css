@@ -204,12 +204,6 @@ header .intro-text {
 	margin-left: 10px;
 	text-align: center;
 }
-#classes img {
-	border-radius: 50%;
-	width: 160px;
-	height: 160px;
-	display: inline-block;
-}
 #classes p {
 	margin-top: 40px;
 	margin-bottom: 30px;
