@@ -215,19 +215,16 @@ header .intro-text {
 	margin-bottom: 30px;
 	line-height: 22px;
 }
-.googleCalendar{
-  position: relative;
-  height: 0;
-  width: 50%;
-  padding-bottom: 50%;
+.responsiveCal {
+ 
+position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+ 
 }
-
-.googleCalendar iframe{
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+ 
+.responsiveCal iframe {
+ 
+position: absolute; top:0; left: 0; width: 100%; height: 100%;
+ 
 }
 
 /* Portfolio Section */
