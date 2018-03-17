@@ -143,18 +143,24 @@ hr {
 	border-color: #121d1f;
 }
 /* Header Section */
-.intro {
+.intro:before {
 	display: table;
 	width: 100%;
 	padding: 0;
-	text-align: center;
-	color: #333;
+	opacity: 0.5;
 	background: url(http://cassandracardiffyoga.com/cassieyoga/pexels-photo-237382.jpeg) no-repeat center top;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+}
+.intro {
+	display: table;
+	width: 100%;
+	padding: 0;
+	text-align: center;
+	color: #333;
 }
 .section-title.center {
 	padding: 10px 0 40px 0;
