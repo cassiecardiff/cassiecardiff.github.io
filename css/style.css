@@ -149,7 +149,7 @@ hr {
 	padding: 0;
 	text-align: center;
 	color: #333;
-	background: url(https://github.com/cassiecardiff/cassieyoga/blob/master/roseopaque.jpg?raw=true) no-repeat center top;
+	background: url(img/roseopaque.png) no-repeat center top;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -209,6 +209,21 @@ header .intro-text {
 	margin-bottom: 30px;
 	line-height: 22px;
 }
+<<<<<<< HEAD
+#classes img {
+	border-radius: 50%;
+	width: 160px;
+	height: 160px;
+	display: inline-block;
+}
+.responsiveCal {
+	position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+}
+ 
+.responsiveCal iframe {
+	position: absolute; top:0; left: 0; width: 100%; height: 100%;
+}
+=======
 .responsiveCal {
  
 position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
@@ -220,11 +235,8 @@ position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
 position: absolute; top:0; left: 0; width: 100%; height: 100%;
  
 }
-#classes img {
-	border-radius: 50%;
-	width: 160px;
-	height: 160px;
-	display: inline-block;
+
+>>>>>>> parent of 3cd00bf... Update style.css
 /* Portfolio Section */
 #portfolio {
 	padding: 120px 0;
