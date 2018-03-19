@@ -149,7 +149,7 @@ hr {
 	padding: 0;
 	text-align: center;
 	color: #333;
-	background: url(img/roseopaque.jpg) no-repeat center top;
+	background: url(img/roseopaque.jpg) no-repeat center top !important;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -195,6 +195,12 @@ header .intro-text {
 	margin-bottom: 30px;
 	line-height: 22px;
 }
+#about img.qual {
+	border-radius: 0%;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}	
 /* Classes Section */
 #classes {
 	padding: 120px 0;
