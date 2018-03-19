@@ -195,7 +195,7 @@ header .intro-text {
 	margin-bottom: 30px;
 	line-height: 22px;
 }
-#about img.qual {
+.img-qual {
 	border-radius: 0% !important;
 	width: 100px !important;
 	height: 100px !important;
