@@ -196,9 +196,9 @@ header .intro-text {
 	line-height: 22px;
 }
 #about img.qual {
-	border-radius: 0%;
-	width: 100px;
-	height: 100px;
+	border-radius: 0% !important;
+	width: 100px !important;
+	height: 100px !important;
 	display: inline-block;
 }	
 /* Classes Section */
