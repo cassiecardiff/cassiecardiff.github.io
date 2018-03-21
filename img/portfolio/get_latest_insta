@@ -1,4 +1,4 @@
-rm cascardiff-archiv
+rm -rf cascardiff-archiv
 mv cascardiff cascardiff-archiv
 instagram-scraper cascardiff -m 12
 ls cascardiff/*jpg | awk '{printf("cp %s",$1)} {printf(" %02d-large.jpg\n",NR)}' | bash
