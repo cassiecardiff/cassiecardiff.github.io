@@ -233,7 +233,7 @@ header .intro-text {
 .responsiveCal {
  
 position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
-margin-bottom: 120px; 
+margin-bottom: 30px; 
 }
  
 .responsiveCal iframe {
