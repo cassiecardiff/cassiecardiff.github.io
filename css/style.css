@@ -241,8 +241,8 @@ header .intro-text {
 	height: 160px;
 	display: inline-block;
 }
-#classes ul {
-	border-color: #777;
+#classes ul li {
+	border: 1px solid #777;
 	border-radius: 0;
 }
  /* Responsive iFrame */
