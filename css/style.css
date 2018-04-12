@@ -168,6 +168,8 @@ hr {
 	color: #333;
 }
 .intro p {
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
 	font-size: 20px;
 	margin-bottom: 40px;
 	margin-top: 40px;
