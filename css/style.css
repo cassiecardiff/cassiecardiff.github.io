@@ -171,6 +171,7 @@ hr {
 	font-size: 20px;
 	margin-bottom: 40px;
 	margin-top: 40px;
+	color: #96564c;
 }
 header .intro-text {
 	padding-top: 200px;
@@ -180,7 +181,7 @@ header .intro-text {
 	border-radius: 0%;
 	width: 800px;
 	display: inline-block;
-	padding-top: 200px;
+	padding-top: 120px;
 }
 /* About Section */
 #about {
