@@ -180,6 +180,7 @@ header .intro-text {
 	border-radius: 0%;
 	width: 800px;
 	display: inline-block;
+	padding-top: 200px;
 }
 /* About Section */
 #about {
