@@ -170,13 +170,12 @@ hr {
 .intro p {
 	font-size: 20px;
 	margin-bottom: 40px;
-	margin-top: 20px;
+	margin-top: 40px;
 }
 header .intro-text {
 	padding-top: 200px;
 	padding-bottom: 200px;
 }
-
 #header img {
 	border-radius: 0%;
 	width: 800px;
