@@ -91,7 +91,7 @@ hr {
 }
 .navbar-custom {
 	margin-bottom: 0;
-	background-color: #ede5e0;
+	background-color: #f3ede8;
 	border-radius: 0px;
 	padding: 10px 0;
 	border-bottom: 2px solid #fff;
@@ -151,7 +151,7 @@ hr {
 	text-align: center;
 	color: #333;
 	background: url("../img/Websitebackground.png") no-repeat center top;
-	background-color: #ede5e0;
+	background-color: #f3ede8;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
