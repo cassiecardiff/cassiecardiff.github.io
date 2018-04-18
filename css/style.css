@@ -221,6 +221,13 @@ header .intro-text {
 	display: inline-block;
 	margin-bottom: 30px !important;
 }
+.img-qualacc {
+	border-radius: 0px !important;
+	width: 172px !important;
+	height: 100px !important;
+	display: inline-block;
+	margin-bottom: 30px !important;
+}
 /* Classes Section */
 #classes {
 	padding: 120px 0;
