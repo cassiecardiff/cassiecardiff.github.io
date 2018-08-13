@@ -532,4 +532,5 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	border-radius: 0px !important;
 	height: 74px !important;
 	display: inline-block;
+	margin-bottom: 30px !important;
 }
