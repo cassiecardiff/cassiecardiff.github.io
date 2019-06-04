@@ -131,7 +131,7 @@ a:hover {
   margin-bottom: 5%;
 }
 
-.responsive-iframe-container {
+.responsiveCal {
 position: relative;
 padding-bottom: 56.25%;
 padding-top: 30px;
@@ -139,9 +139,9 @@ height: 0;
 overflow: hidden;
 }
 
-.responsive-iframe-container iframe,
-.vresponsive-iframe-container object,
-.vresponsive-iframe-container embed {
+.responsiveCal iframe,
+.vresponsiveCal object,
+.vresponsiveCal embed {
 position: absolute;
 top: 0;
 left: 0;
