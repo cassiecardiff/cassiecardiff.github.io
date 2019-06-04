@@ -5,6 +5,17 @@
   .col-sm-4 {
     text-align: center;
     margin: 25px 0;
+  }
+  #testimonials {
+    display: none; /* Don't display testimonials on mobile */
+  }
+  #classes {
+    padding: unset;
+  }
+  .container-fluid {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
 }
 
 body {
