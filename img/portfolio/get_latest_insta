@@ -2,6 +2,6 @@
 cd -- "$(dirname "$0")"
 rm -rf cascardiff-archiv
 mv cascardiff cascardiff-archiv
-instagram-scraper cascardiff -m 12
+instagram-scraper -u cascardiff -m 12 -v 2 -p $1 cascardiff
 ls cascardiff/*jpg | awk '{printf("cp %s",$1)} {printf(" %02d-large.jpg\n",NR)}' | bash
 ls cascardiff/*jpg | awk '{printf("cp %s",$1)} {printf(" %02d-small.jpg\n",NR)}' | bash
