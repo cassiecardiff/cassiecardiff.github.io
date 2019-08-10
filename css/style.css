@@ -101,6 +101,13 @@ bottom: 16px;
   color: #fff !important;
 }
 
+.container-header {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
 .container {
   padding-right: 30px;
   padding-left: 30px;
