@@ -42,7 +42,7 @@ h1  {font-family: "Raleway", sans-serif;
   font-size: 30px !important;
   text-transform: uppercase;
   letter-spacing: 5px;
-  color: #303030;
+  color: #fff !important;
   font-weight: 600;
 }
 
@@ -278,21 +278,6 @@ height: 100%;
 
 .item span {
   font-style: normal;
-}
-
-.btnmail {
-  margin-top: 15px;
-  margin-bottom: 25px;
-  background-color: #96564c;
-  color: #fff;
-  border: none;
-  background: transparent;
-}
-
-.btnmail:hover {
-  border: 1px solid #96564c;
-  background-color: #fff !important;
-  color: #96564c !important;
 }
 
 .social {
