@@ -68,8 +68,6 @@ h2 {
 .jumbotron {
   height: 280px;
   font-family: Raleway, sans-serif;
-  background-image: url(http://cassiecardiff.github.io/img/londonheader.jpg);
-  background-size: 100% 100%;
 }
 
 .navbar {
