@@ -65,15 +65,18 @@ h2 {
   background-color: #fff;
 }
 
+#toplogo {
+  display: block;
+    height: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}  
+  
 .jumbotron {
-  background-image: url('http://cassiecardiff.github.io/img/CCardifflogo.png');
   background-position: center;
   height: 280px;
   font-family: Raleway, sans-serif;
-}
-
-.jumbotron img {
-  background-size: cover
 }
 
 .navbar {
