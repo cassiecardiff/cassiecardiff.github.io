@@ -66,6 +66,8 @@ h2 {
 }
 
 .jumbotron {
+  background-image: url('http://cassiecardiff.github.io/img/CCardifflogo.png');
+  background-position: center;
   height: 280px;
   font-family: Raleway, sans-serif;
 }
