@@ -66,11 +66,12 @@ h2 {
 }
 
 #toplogo {
-  display: block;
-    height: 230px;
+    display: block;
+    max-height: 230px;
     margin-left: auto;
     margin-right: auto;
-    width: auto;
+    width: 100%;
+    max-width: 465.68px;
 }  
   
 .jumbotron {
@@ -143,7 +144,6 @@ bottom: 16px;
 }
 
 header {
-  height: 250px;
   background-color: #fff;
 }
 
